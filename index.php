@@ -31,7 +31,6 @@
                 <th>To pay next time</th>
             </tr>
                 ");
-                $y = [0, 1, 2, 3, 4, 5, 6, 7];
                 for ($i = 0; $i < $length; $i++){
                     echo ("
             <tr>
